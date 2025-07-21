@@ -6,6 +6,6 @@ tags: first markdown example
 
 This is a paragraph in my first post
 
-##Heading 2
+## Heading 2
 
 Here's more about my post.
