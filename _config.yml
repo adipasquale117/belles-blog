@@ -1,0 +1,11 @@
+# Site Settings
+
+title: Belle Owns This Blog
+author: 
+  name: Annabelle Caitlyn
+  email: adip117@gmail.com
+description: Blog about Annabelles academic and personal interests
+
+# Build Settings
+
+remote_theme: jekyll/minima
